@@ -1,0 +1,6 @@
+{
+	"uuid": "days-until-christmas@ghost",
+	"name": "Days until Christmas desklet",
+	"description": "Displays days until christmas.",
+	"prevent-decorations": false
+}

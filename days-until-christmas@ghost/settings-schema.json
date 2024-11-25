@@ -1,0 +1,12 @@
+{
+    "type": {
+        "type": "combobox",
+        "default": 25,
+        "description": "Date of Christmas in your place",
+        "tooltip": "Choose the correct date of Christmas for your place.",
+        "options" : {
+            "Dec 25th" : 25,
+            "Dec 24th": 24
+        }
+    }
+}
